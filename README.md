@@ -42,13 +42,13 @@ I want to be upfront about this: I chose a simple project with easy-to-follow in
 I try to come up with interesting and challenging questions for this project, ones that would push me to think creatively. Some of these questions emerged in the middle of the project as I found inspiration while working through the data.
 
 **Primary objectives**
-- Provide Statistics of Covid in the World
+- Provide data analytics of Covid in the World
 - Simulate Forcasting
 - Utilize Skillset in Project
 
 
 #### Data Cleaning
- I didn’t do much data cleaning in the Excel/CSV file as I was following the tutorial closely. In hindsight, I realized that many of the columns in the dataset were unnecessary. To address this, I created a sample of how I would clean up the data and included small charts and presentations to illustrate the process.
+ I didn’t do much data cleaning in the Excel/CSV file as I was following the tutorial closely. In hindsight, I realized that many of the columns in the dataset were unnecessary. To address this, I created a sample of how I would clean up the data.
 
 
   
