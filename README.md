@@ -35,7 +35,7 @@ I want to be upfront about this: I chose a simple project with easy-to-follow in
 #### Resources
 - Youtube Tutorial by: Alex The Analyst - <a href="https://www.youtube.com/watch?v=qfyynHBFOsM">Data Analyst Portfolio Project</a>
 - Data source: Our World in Data - <a href="https://ourworldindata.org/covid-deaths">Covdid Deaths</a>
-- Data File: 
+- Data File: <a href="<a href="https://ourworldindata.org/covid-deaths">Covdid Deaths</a>">CSV</a>
 
 #### Questions
 
