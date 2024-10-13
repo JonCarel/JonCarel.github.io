@@ -60,4 +60,8 @@ _[Sample_Queries.sql](https://github.com/JonCarel/JonCarel.github.io/blob/2ac091
 
 #### Data Visualization
 
+To tie everyting up here are some visualizations using Tabluea
+
+
+
 #### Conclusion
