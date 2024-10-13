@@ -29,7 +29,7 @@ management and resource allocation.
 
 ## Sample Data Analytics Projects
 
-### Project 1: Health Care (Covid)
+### Project 1: Health Care (COVID-19)
 I want to be upfront about this: I chose a simple project with easy-to-follow instructions for my first attempt since I don’t have much experience in the data analytics field. However, I made some changes and added elements that I believed would enhance the project.
 
 #### Resources
@@ -42,7 +42,7 @@ I want to be upfront about this: I chose a simple project with easy-to-follow in
 I try to come up with interesting and challenging questions for this project, ones that would push me to think creatively. Some of these questions emerged in the middle of the project as I found inspiration while working through the data.
 
 **Primary objectives**
-- Provide data analytics of Covid in the World
+- Provide data analytics of COVID-19 in the World
 - Simulate Forcasting
 - Utilize Skillset in Project
 
