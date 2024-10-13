@@ -50,13 +50,16 @@ I try to come up with interesting and challenging questions for this project, on
 #### Data Cleaning
  I didn’t do much data cleaning in the Excel/CSV file as I was following the tutorial closely. In hindsight, I realized that many of the columns in the dataset were unnecessary. To address this, I created a sample of how I would clean up the data.
 
-
+<a href="https://github.com/JonCarel/JonCarel.github.io/blob/4e2aa788886afa78aa66216f8cbf489dfeb59e6d/excel/Sample_Data_Cleaning.xlsx">Sample Cleaning Data</a>
   
 #### Data Analysis
 
-Using SQL I tried to answer the questions that I asked at the start
+Here are the sql queries I used to aid in the Visualization/Data Analysis
+The CSV file is broken into two excel file in order to utilize the join function
 
 _[Sample_Queries.sql](https://github.com/JonCarel/JonCarel.github.io/blob/2ac0917e39b6208342b59367095029df0c86d7c3/Sample_Queries.sql)_
+
+Here are the samples of the results of the query in excel: <a href="https://github.com/JonCarel/JonCarel.github.io/blob/f1d1ab19a5a04a33a18bb4655d190c4ed031bc9e/excel/SQL_QUERY_OUTPUT_SAMPLE.xlsx">SQL Query Output Sample</a>
 
 #### Data Visualization
 
