@@ -34,7 +34,7 @@ I want to be upfront about this: I chose a simple project with easy-to-follow in
 
 #### Resources
 - Youtube Tutorial by: Alex The Analyst _https://www.youtube.com/watch?v=qfyynHBFOsM_
-- Data Source: https://ourworldindata.org/covid-deaths
+- Data Source: _https://ourworldindata.org/covid-deaths_
 
 #### Questions
 
@@ -43,7 +43,7 @@ I try to come up with interesting and challenging questions for this project, on
 **Primary Questions**
 - Correlation of Covid with Vaccinations
 - Correlation of Covid with GDP of Countries
-- Statistics of Covid of Philippines vs World
+- Statistics of Covid in Philippines vs World
 
 These questions guided me in conducting the analysis.
 
