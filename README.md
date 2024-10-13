@@ -56,7 +56,7 @@ These questions guided me in conducting the analysis.
 
 Using SQL I tried to answer the questions that I asked at the start
 
-_Sample_Queries.sql_
+_[Sample_Queries.sql](https://github.com/JonCarel/JonCarel.github.io/blob/2ac0917e39b6208342b59367095029df0c86d7c3/Sample_Queries.sql)_
 
 #### Data Visualization
 
