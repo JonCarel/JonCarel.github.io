@@ -63,7 +63,8 @@ Here are the samples of the results of the query in excel: <a href="https://gith
 
 #### Data Visualization
 
-To tie everyting up here are some visualizations using Tabluea
+To tie everyting up here are some visualizations using Tableau Public
+
 
 
 
