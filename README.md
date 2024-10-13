@@ -56,6 +56,8 @@ These questions guided me in conducting the analysis.
 
 Using SQL I tried to answer the questions that I asked at the start
 
+_Sample_Queries.sql_
+
 #### Data Visualization
 
 #### Conclusion
