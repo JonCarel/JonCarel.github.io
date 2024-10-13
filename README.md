@@ -33,7 +33,7 @@ management and resource allocation.
 I want to be upfront about this: I chose a simple project with easy-to-follow instructions for my first attempt since I don’t have much experience in the data analytics field. However, I made some changes and added elements that I believed would enhance the project.
 
 #### Resources
-- Youtube Tutorial by: Alex The Analyst _https://www.youtube.com/watch?v=qfyynHBFOsM_
+- Youtube Tutorial by: Alex The Analyst _<a href ="https://www.youtube.com/watch?v=qfyynHBFOsM"_
 - Data Source: _https://ourworldindata.org/covid-deaths_
 
 #### Questions
