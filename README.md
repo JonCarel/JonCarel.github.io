@@ -43,7 +43,7 @@ I try to come up with interesting and challenging questions for this project, on
 
 **Primary objectives**
 - Provide data analytics of COVID-19 in the World
-- Simulate Forcasting
+- Simulate Forecasting
 - Utilize Skillset in Project
 
 
@@ -63,7 +63,7 @@ Here are the samples of the results of the query in excel: <a href="https://gith
 
 #### Data Visualization
 
-To tie everyting up here are some visualizations I made using Tableau Public
+To tie everything up here are some visualizations I made using Tableau Public
 
 <a href="https://public.tableau.com/views/Project1-HealthCare_17288563460510/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">Project1-HealthCare</a>
 
@@ -76,7 +76,7 @@ Despite the significant number of cases and deaths, the growth of COVID-19 appea
 
 Investigate the factors that contributed to the slowdown in COVID-19 growth.
 
-**Foot Note**
+**Footnote**
 - I plan to add a new dashboard that relates vaccination rates to the growth of COVID-19.
 
 
