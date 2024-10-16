@@ -69,16 +69,18 @@ COVID-19 Cases and Deaths:
 <a href="https://public.tableau.com/views/Project1-HealthCare_17288563460510/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">Project1-HealthCare Tableau</a>
 ![](/Pictures/Project_1_Tableau.PNG)
 
+<a href="https://github.com/JonCarel/JonCarel.github.io/blob/f45ab834f8f121fe131a39f4cd7a0e191279c5b7/powerBI/Project_1_PowerBI.pbix">Power BI File</a>
+COVID-10 Vaccinations: 
+![](/Pictures/Project_1_PowerBI.PNG)
 #### Conclusion
 
-Despite the significant number of cases and deaths, the growth of COVID-19 appears to have slowed down.
+Despite the significant number of cases and deaths, the growth of COVID-19 appears to have slowed down. However, the data collected is insufficient to definitively attribute the decline in COVID-19 cases to the vaccines. If vaccinations were effective, we would expect to see a negative correlation between the number of vaccinations and new COVID-19 cases. Instead, the data reveals a weak positive correlation between the two. Therefore, the current data is inadequate to conclude that the vaccinations are effective.
 
 #### Recommendation
 
-Investigate the factors that contributed to the slowdown in COVID-19 growth.
+1. Investigate additional factors that could influence the decline of COVID-19.
+2. Utilize alternative statistical tools for a more comprehensive analysis.
 
-**Footnote**
-- I plan to add a new dashboard that relates vaccination rates to the growth of COVID-19.
-
+**Footnote: The effectiveness of the vaccine is not immediate; therefore, I suggest that data regarding vaccinations be shifted by one week to one month prior to the number of new cases when conducting statistical analyses.
 
 ### Project 2: Finance (Ongoing)
