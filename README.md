@@ -69,7 +69,7 @@ COVID-19 Cases and Deaths:
 <a href="https://public.tableau.com/views/Project1-HealthCare_17288563460510/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">Project1-HealthCare Tableau</a>
 ![](/Pictures/Project_1_Tableau.PNG)
 
-COVID-10 Vaccinations: 
+COVID-19 Vaccinations: 
 <a href="https://github.com/JonCarel/JonCarel.github.io/blob/f45ab834f8f121fe131a39f4cd7a0e191279c5b7/powerBI/Project_1_PowerBI.pbix">Power BI File</a>
 ![](/Pictures/Project_1_PowerBI.PNG)
 #### Conclusion
