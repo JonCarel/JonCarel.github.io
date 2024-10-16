@@ -60,6 +60,7 @@ The CSV file is broken into two excel file in order to utilize the join function
 _[Sample_Queries.sql](https://github.com/JonCarel/JonCarel.github.io/blob/2ac0917e39b6208342b59367095029df0c86d7c3/Sample_Queries.sql)_
 
 Here are the samples of the results of the query in excel: <a href="https://github.com/JonCarel/JonCarel.github.io/blob/f1d1ab19a5a04a33a18bb4655d190c4ed031bc9e/excel/SQL_QUERY_OUTPUT_SAMPLE.xlsx">SQL Query Output Sample</a>
+Pictures/Project 1 - Tableau.PNG
 
 #### Data Visualization
 
