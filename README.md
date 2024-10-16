@@ -65,7 +65,8 @@ Here are the samples of the results of the query in excel: <a href="https://gith
 
 To tie everything up here are some visualizations I made using Tableau Public
 
-<a href="https://public.tableau.com/views/Project1-HealthCare_17288563460510/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">Project1-HealthCare</a>
+COVID-19 Cases and Deaths
+<a href="https://public.tableau.com/views/Project1-HealthCare_17288563460510/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">Project1-HealthCare Tableau</a>
 
 
 #### Conclusion
