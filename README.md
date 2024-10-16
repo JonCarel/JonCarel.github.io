@@ -67,7 +67,7 @@ To tie everything up here are some visualizations I made using Tableau Public
 
 COVID-19 Cases and Deaths:
 <a href="https://public.tableau.com/views/Project1-HealthCare_17288563460510/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">Project1-HealthCare Tableau</a>
-![](JonCarel.github.io/Pictures/Project_1_Tableau.PNG)
+![](/Pictures/Project_1_Tableau.PNG)
 
 #### Conclusion
 
