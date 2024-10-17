@@ -1,9 +1,9 @@
 # Industrial Engineer
-
+ <a href="https://drive.google.com/file/d/1JGjJox3Vn_febSf5TBoWnzkuuHjvvLPK/view?usp=drive_link">Link to my Full Resume.pdf</a>
 #### Technical Skills: Excel, Access, SQL, Power BI, Tableau, Python
 
 ## Education
-- BS Industrial Engineering ꟾ University of Perpetual Help System Laguna (2021)
+- **BS Industrial Engineering ꟾ University of Perpetual Help System Laguna (2021)**
 
 ## Work Experience
 
