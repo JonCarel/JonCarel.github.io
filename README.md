@@ -82,4 +82,21 @@ Despite the significant number of cases and deaths, the growth of COVID-19 appea
 
 **Footnote: The effectiveness of the vaccine is not immediate; therefore, I suggest that data regarding vaccinations be shifted by one week to one month prior to the number of new cases when conducting statistical analyses.
 
-### Project 2: Finance (Ongoing)
+### Project 2: Finance
+For my next project, I want to apply my skills to report making in finance. I also want to learn new techniques and explore how report making in Excel can be applied in Power BI. I could not find a data set that is applicable for my project, so i used a sample dataset from PowerBI
+
+#### Resources
+- Data File: <a href="https://github.com/JonCarel/JonCarel.github.io/blob/0f0f6aee5d817ff514dbcd27ce7ceb86f6355788/excel/Project_2.xlsx">Excel File</a>
+
+#### Questions
+
+I want to provide answers to common questions that business owners have and make the reports interactive
+
+**Primary objectives**
+- Provide KPIs
+- Construct a simple Income Statement
+- Make an Interactive Dashboard
+
+#### Data Visualization
+<a href="https://github.com/JonCarel/JonCarel.github.io/tree/0f0f6aee5d817ff514dbcd27ce7ceb86f6355788/powerBI">Power BI File</a>
+![](/Pictures/Project_2.PNG)
