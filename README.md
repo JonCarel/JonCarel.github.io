@@ -82,7 +82,7 @@ Despite the significant number of cases and deaths, the growth of COVID-19 appea
 
 **Footnote: The effectiveness of the vaccine is not immediate; therefore, I suggest that data regarding vaccinations be shifted by one week to one month prior to the number of new cases when conducting statistical analyses.
 
-### Project 2: Finance
+### Project 2: Finance (Ongoing)
 For my next project, I want to apply my skills to report making in finance. I also want to learn new techniques and explore how report making in Excel can be applied in Power BI. I could not find a data set that is applicable for my project, so i used a sample dataset from PowerBI
 
 #### Resources
