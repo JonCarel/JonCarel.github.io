@@ -111,6 +111,7 @@ Here is the complete<a href="https://github.com/JonCarel/JonCarel.github.io/blob
 
 Also, Here are the journal Entries used in this Project
 ![](/Pictures/Project_2.2_Journal.PNG)
+
 **Primary objectives**
 Construct the following from journal Entries
 1. General Ledger/Ledgers
