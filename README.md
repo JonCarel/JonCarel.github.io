@@ -118,7 +118,8 @@ Construct the following from journal Entries
 3. Income Statement
 4. Balance Sheet
 
-####Data Visualization
+#### Data Visualization
+
 Here are the sample of the Financial Statements I Created
 
 **General Ledger**
