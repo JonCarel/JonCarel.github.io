@@ -128,6 +128,9 @@ Here are the sample of the Financial Statements I Created
 **Cash Ledger**
 ![](/Pictures/Project_2.2_Cash_Ledger.PNG)
 
+**Trial Balance**
+![](/Pictures/Project_2.2_Trial_Balance.PNG)
+
 **Income Statement**
 ![](/Pictures/Project_2.2_Income_Statement.PNG)
 
