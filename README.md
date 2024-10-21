@@ -102,11 +102,14 @@ Financial Report<a href="https://github.com/JonCarel/JonCarel.github.io/tree/0f0
 ![](/Pictures/Project_2.PNG)
 
 ### Project 2.2: Accounting
-Before Takleing Finicial Statements in Power BI, I wanted to do it first on Excel. I want to showcase my abilites in using Excel Functions such as V and X Lookups and features such as pivot tables.
+Before tackling financial statements in Power BI and Tableua, I wanted to first work on them in Excel to showcase my abilities with Excel functions like VLOOKUP and XLOOKUP, as well as features like pivot tables.
 
 #### Resources
-I could not find a Journal in the internet that I could use for this project but since i have a background in Accounting I made up journal entries to a starup company (CHIA LTD)
+I couldn't find a journal online that I could use for this project, but since I have a background in accounting, I created journal entries for a startup company, CHIA LTD.
+Here is the complete<a href="https://github.com/JonCarel/JonCarel.github.io/blob/5f9cb82a11e9c81e06b6da1bdda15e1d9ed16de6/excel/Project_2.2_Accounting.xlsx">Excel File</a> for your reference.
 
+Also, Here are the journal Entries used in this Project
+![](/Pictures/Project_2.2_Journal.PNG)
 **Primary objectives**
 Construct the following from journal Entries
 1. General Ledger/Ledgers
@@ -115,4 +118,16 @@ Construct the following from journal Entries
 4. Balance Sheet
 
 ####Data Visualization
+Here are the sample of the Financial Statements I Created
 
+**General Ledger**
+![](/Pictures/Project_2.2_General_Ledger.PNG)
+
+**Cash Ledger**
+![](/Pictures/Project_2.2_Cash_Ledger.PNG)
+
+**Income Statement**
+![](/Pictures/Project_2.2_Income_Statement.PNG)
+
+**Balance Sheet**
+![](/Pictures/Project_2.2_Balance_Sheet.PNG)
