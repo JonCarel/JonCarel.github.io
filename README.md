@@ -82,7 +82,7 @@ Despite the significant number of cases and deaths, the growth of COVID-19 appea
 
 **Footnote: The effectiveness of the vaccine is not immediate; therefore, I suggest that data regarding vaccinations be shifted by one week to one month prior to the number of new cases when conducting statistical analyses.
 
-### Project 2: Finance (Ongoing)
+### Project 2.1: Finance (Ongoing)
 For my next project, I want to apply my skills to report making in finance. I also want to learn new techniques and explore how report making in Excel can be applied in Power BI. I could not find a data set that is applicable for my project, so i used a sample dataset from PowerBI
 
 #### Resources
@@ -100,3 +100,19 @@ I want to provide answers to common questions that business owners have and make
 #### Data Visualization
 Financial Report<a href="https://github.com/JonCarel/JonCarel.github.io/tree/0f0f6aee5d817ff514dbcd27ce7ceb86f6355788/powerBI">Power BI File</a>
 ![](/Pictures/Project_2.PNG)
+
+### Project 2.2: Accounting
+Before Takleing Finicial Statements in Power BI, I wanted to do it first on Excel. I want to showcase my abilites in using Excel Functions such as V and X Lookups and features such as pivot tables.
+
+#### Resources
+I could not find a Journal in the internet that I could use for this project but since i have a background in Accounting I made up journal entries to a starup company (CHIA LTD)
+
+**Primary objectives**
+Construct the following from journal Entries
+1. General Ledger/Ledgers
+2. Trial Balance
+3. Income Statement
+4. Balance Sheet
+
+####Data Visualization
+
