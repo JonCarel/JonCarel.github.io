@@ -98,6 +98,7 @@ I want to provide answers to common questions that business owners have and make
 - Make an Interactive Dashboard
 
 #### Data Visualization
+
 Financial Report<a href="https://github.com/JonCarel/JonCarel.github.io/tree/0f0f6aee5d817ff514dbcd27ce7ceb86f6355788/powerBI">Power BI File</a>
 ![](/Pictures/Project_2.PNG)
 
