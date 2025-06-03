@@ -7,13 +7,19 @@
 
 ## Work Experience
 
+**Sales Assistant (KDH Enterprices, Muntinlupa) _(February 2025 - Present)_**
+- Manages Demand Planning and Safety Stocks to make sure there is enough Capacity in the warehouse
+- Arranges shipments to clients and manages the logistics of product delivery.
+- Oversees warehouse inventory management and ensures stock levels are maintained and orders are fulfilled efficiently.
+- Coordinates with internal departments to ensure timely delivery of products to customers.
+- Handled customer inquiries, provided product information, and resolved any issues or complaints promptly.
+
 **DEPARTMENT HEAD (Areza Group Of Companies, Biñan) _(April 2023 - December 2023)_**
 - Led the Research Department and the Private Motor Vehicle Inspection Center (PMVIC) Department, overseeing operations and strategic initiatives.
 - Established and maintained connections with government agencies to facilitate the continuation and establishment of PMVICs.
 - Spearheaded the maintenance and improvement efforts of one PMVIC in Pagsanjan, ensuring compliance with regulatory standards and optimizing operational efficiency.
 - Played a key role in the establishment of a new PMVIC site in Tagaytay, coordinating with stakeholders, Local Government Units, Contractors, and other key persons.
 - Implemented strategies to enhance customer satisfaction and streamline processes at PMVIC facilities, resulting in improved service delivery and increased customer retention.
-
 
 **PRODUCT ENGINEER (Tri-Phil Inc, Muntinlupa) _(February 2022 - April 2022)_**
 - Worked within the Research and Development Department, contributing to the 
@@ -137,3 +143,7 @@ Here are the sample of the Financial Statements I Created
 
 **Balance Sheet**
 ![](/Pictures/Project_2.2_Balance_Sheet.PNG)
+
+
+### Project 3: Inventory and Sales Management System
+
