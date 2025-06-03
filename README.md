@@ -8,11 +8,12 @@
 ## Work Experience
 
 **Sales Assistant (KDH Enterprices, Muntinlupa) _(February 2025 - Present)_**
+- Implemented a new Sales and Inventory Management System
 - Manages Demand Planning and Safety Stocks to make sure there is enough Capacity in the warehouse
 - Arranges shipments to clients and manages the logistics of product delivery.
 - Oversees warehouse inventory management and ensures stock levels are maintained and orders are fulfilled efficiently.
 - Coordinates with internal departments to ensure timely delivery of products to customers.
-- Handled customer inquiries, provided product information, and resolved any issues or complaints promptly.
+- Handles customer inquiries, provided product information, and resolved any issues or complaints promptly.
 
 **DEPARTMENT HEAD (Areza Group Of Companies, Biñan) _(April 2023 - December 2023)_**
 - Led the Research Department and the Private Motor Vehicle Inspection Center (PMVIC) Department, overseeing operations and strategic initiatives.
@@ -35,7 +36,37 @@ management and resource allocation.
 
 ## Sample Data Analytics Projects
 
-### Project 1: Health Care (COVID-19)
+### Inventory and Sales Management System (COVID-19)
+Here are some example that I made for a company i worked for. I migrated their data from Excel to Google Sheets, I want to make the data online as most of our team are not in the office. I just want to highlight in this porject that I am familiar with Advance Excel functions
+
+#### Resources
+- The data used in this projects are actual data but altered, I change a lot of things for the privacy of my previous company
+- Randomized Amounts and Names
+
+#### Questions
+
+I want to connect all the data in different sheets so that if you create an entry in once sheet, it will automatically update data in another sheet.
+
+**Primary Objectives**
+- Cleaning up data
+- Implementations of Advance Excel Functions
+- Familiarization of Google Sheets and Looker Studio
+
+#### Data Migration
+
+#### Data Visualization
+
+#### Conslusion
+
+Although Google Sheets offers many useful features, it still has limitations when it comes to task automation. It's a powerful tool in its own right, but only up to a certain extent. It cannot match Excel's Visual Basic for Applications (VBA) in terms of automation capabilities. However, for a free, cloud-based solution, Google Sheets gets the job done.
+
+#### Recommendation
+1.) Use Google Sheets for small enterprises due to its accessibility, ease of use, and cost-effectiveness.
+2.) For medium to large businesses, consider using SAP or other enterprise resource planning (ERP) systems that offer more robust data handling, automation, and integration capabilities.
+3.) Use Looker Studio for small to medium datasets, especially for creating dashboards and visualizing data insights.
+
+
+### Health Care (COVID-19)
 I want to be upfront about this: I chose a simple project with easy-to-follow instructions for my first attempt since I don’t have much experience in the data analytics field. However, I made some changes and added elements that I believed would enhance the project.
 
 #### Resources
@@ -88,7 +119,7 @@ Despite the significant number of cases and deaths, the growth of COVID-19 appea
 
 **Footnote: The effectiveness of the vaccine is not immediate; therefore, I suggest that data regarding vaccinations be shifted by one week to one month prior to the number of new cases when conducting statistical analyses.
 
-### Project 2.1: Finance (Ongoing)
+### Finance
 For my next project, I want to apply my skills to report making in finance. I also want to learn new techniques and explore how report making in Excel can be applied in Power BI. I could not find a data set that is applicable for my project, so i used a sample dataset from PowerBI
 
 #### Resources
