@@ -54,6 +54,13 @@ I want to connect all the data in different sheets so that if you create an entr
 
 #### Data Migration
 
+![](/Pictures/Project_3.1_Customers.PNG)
+
+![](/Pictures/Project_3.1_Product.PNG)
+
+![](/Pictures/Project_3.1_Sales.PNG)
+
+
 #### Data Visualization
 
 #### Conslusion
