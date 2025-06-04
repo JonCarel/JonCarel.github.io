@@ -63,6 +63,8 @@ I want to connect all the data in different sheets so that if you create an entr
 
 #### Data Visualization
 
+![](/Pictures/Project_3.1_GoogleLooker.png)
+
 #### Conslusion
 
 Although Google Sheets offers many useful features, it still has limitations when it comes to task automation. It's a powerful tool in its own right, but only up to a certain extent. It cannot match Excel's Visual Basic for Applications (VBA) in terms of automation capabilities. However, for a free, cloud-based solution, Google Sheets gets the job done.
