@@ -36,7 +36,7 @@ management and resource allocation.
 
 ## Sample Data Analytics Projects
 
-### Inventory and Sales Management System (COVID-19)
+### Inventory and Sales Management System
 Here are some example that I made for a company i worked for. I migrated their data from Excel to Google Sheets, I want to make the data online as most of our team are not in the office. I just want to highlight in this porject that I am familiar with Advance Excel functions
 
 #### Resources
@@ -54,6 +54,9 @@ I want to connect all the data in different sheets so that if you create an entr
 
 #### Data Migration
 
+- <a href="https://docs.google.com/spreadsheets/d/1qV-s8gF1xTtCsNmr2Ob4l6LOyjO-Pov8LNs58Wk-bU4/edit?usp=sharing">Google Sheet Link</a>
+
+
 ![](/Pictures/Project_3.1_Customers.png)
 
 ![](/Pictures/Project_3.1_Product.png)
@@ -62,6 +65,8 @@ I want to connect all the data in different sheets so that if you create an entr
 
 
 #### Data Visualization
+
+- <a href="https://lookerstudio.google.com/reporting/5689376f-cf6d-4473-b8a8-15479eb61dac">Google Sheet Link</a>
 
 ![](/Pictures/Project_3.1_GoogleLooker.png)
 
@@ -185,5 +190,5 @@ Here are the sample of the Financial Statements I Created
 ![](/Pictures/Project_2.2_Balance_Sheet.PNG)
 
 
-### Project 3: Inventory and Sales Management System
+
 
