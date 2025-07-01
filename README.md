@@ -8,23 +8,23 @@
 ## Work Experience
 
 **Technical Sales Engineer (Ocean Coatings - KDH) _(February 2025 - Present)_**
-▪	Implemented a new Sales and Inventory Management System to streamline operations and improve accuracy.
-▪	Coordinated deliveries with clients and arranged procurement from suppliers to meet order requirements.
-▪	Oversaw warehouse inventory, ensuring efficient order fulfillment and optimal stock levels.
-▪	Reached out to potential clients and conducted prospecting activities to grow the customer base.
+- Implemented a new Sales and Inventory Management System to streamline operations and improve accuracy.
+- Coordinated deliveries with clients and arranged procurement from suppliers to meet order requirements.
+- Oversaw warehouse inventory, ensuring efficient order fulfillment and optimal stock levels.
+- Reached out to potential clients and conducted prospecting activities to grow the customer base.
 
 **DEPARTMENT HEAD (Areza Group Of Companies, Biñan) _(April 2023 - December 2023)_**
-▪	Led the Research and PMVIC Department, overseeing operations and strategic initiatives.
-▪	Built and maintained relationships with government agencies to support site establishment and continuity.
-▪	Coordinated the successful setting up of a new site with LGUs, contractors, and key stakeholders.
-▪	Improved customer satisfaction and retention by streamlining processes and service delivery.
+- Led the Research and PMVIC Department, overseeing operations and strategic initiatives.
+- Built and maintained relationships with government agencies to support site establishment and continuity.
+- Coordinated the successful setting up of a new site with LGUs, contractors, and key stakeholders.
+- Improved customer satisfaction and retention by streamlining processes and service delivery.
 
 **PRODUCT ENGINEER (Tri-Phil Inc, Muntinlupa) _(February 2022 - April 2022)_**
-▪	Supported the R&D Department in enhancing product designs and features.
-▪	Maintained and updated product databases to ensure accurate and complete records.
-▪	Encoded product specifications into the system to streamline production workflows.
-▪	Prepared reports and presentations for new product initiatives, presenting insights to stakeholders.
-▪	Calculated product material consumption to aid inventory management and resource planning
+- Supported the R&D Department in enhancing product designs and features.
+- Maintained and updated product databases to ensure accurate and complete records.
+- Encoded product specifications into the system to streamline production workflows.
+- Prepared reports and presentations for new product initiatives, presenting insights to stakeholders.
+- Calculated product material consumption to aid inventory management and resource planning
 
 
 ## Sample Data Analytics Projects
