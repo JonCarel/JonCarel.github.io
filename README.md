@@ -7,31 +7,24 @@
 
 ## Work Experience
 
-**Sales Assistant (KDH Enterprices, Muntinlupa) _(February 2025 - Present)_**
-- Implemented a new Sales and Inventory Management System
-- Manages Demand Planning and Safety Stocks to make sure there is enough Capacity in the warehouse
-- Arranges shipments to clients and manages the logistics of product delivery.
-- Oversees warehouse inventory management and ensures stock levels are maintained and orders are fulfilled efficiently.
-- Coordinates with internal departments to ensure timely delivery of products to customers.
-- Handles customer inquiries, provided product information, and resolved any issues or complaints promptly.
+**Technical Sales Engineer (Ocean Coatings - KDH) _(February 2025 - Present)_**
+▪	Implemented a new Sales and Inventory Management System to streamline operations and improve accuracy.
+▪	Coordinated deliveries with clients and arranged procurement from suppliers to meet order requirements.
+▪	Oversaw warehouse inventory, ensuring efficient order fulfillment and optimal stock levels.
+▪	Reached out to potential clients and conducted prospecting activities to grow the customer base.
 
 **DEPARTMENT HEAD (Areza Group Of Companies, Biñan) _(April 2023 - December 2023)_**
-- Led the Research Department and the Private Motor Vehicle Inspection Center (PMVIC) Department, overseeing operations and strategic initiatives.
-- Established and maintained connections with government agencies to facilitate the continuation and establishment of PMVICs.
-- Spearheaded the maintenance and improvement efforts of one PMVIC in Pagsanjan, ensuring compliance with regulatory standards and optimizing operational efficiency.
-- Played a key role in the establishment of a new PMVIC site in Tagaytay, coordinating with stakeholders, Local Government Units, Contractors, and other key persons.
-- Implemented strategies to enhance customer satisfaction and streamline processes at PMVIC facilities, resulting in improved service delivery and increased customer retention.
+▪	Led the Research and PMVIC Department, overseeing operations and strategic initiatives.
+▪	Built and maintained relationships with government agencies to support site establishment and continuity.
+▪	Coordinated the successful setting up of a new site with LGUs, contractors, and key stakeholders.
+▪	Improved customer satisfaction and retention by streamlining processes and service delivery.
 
 **PRODUCT ENGINEER (Tri-Phil Inc, Muntinlupa) _(February 2022 - April 2022)_**
-- Worked within the Research and Development Department, contributing to the 
-enhancement of baseball glove products.
-- Updated various databases pertaining to baseball glove products, ensuring accuracy and completeness of information.
-- Efficiently encoded product specifications into the system, facilitating smooth 
-production processes.
-- Prepared detailed reports and presentations for new projects and products, 
-communicating findings and recommendations to stakeholders.
-- Conducted computations of product consumptions, assisting in inventory 
-management and resource allocation.
+▪	Supported the R&D Department in enhancing product designs and features.
+▪	Maintained and updated product databases to ensure accurate and complete records.
+▪	Encoded product specifications into the system to streamline production workflows.
+▪	Prepared reports and presentations for new product initiatives, presenting insights to stakeholders.
+▪	Calculated product material consumption to aid inventory management and resource planning
 
 
 ## Sample Data Analytics Projects
