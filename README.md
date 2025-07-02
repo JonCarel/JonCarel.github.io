@@ -1,6 +1,6 @@
 # Industrial Engineer
  <a href="https://drive.google.com/file/d/11t1JHJ0kpvqF1nTdBlqlBiJFEHYE9yTK/view?usp=sharing">Link to my Full Resume.pdf</a>
-#### Technical Skills: Excel, Access, SQL, Power BI, Tableau, Python
+#### Technical Skills: Excel, Access, SQL, Power BI, Tableau, Python, Google Apps
 
 ## Education
 - **BS Industrial Engineering ꟾ University of Perpetual Help System Laguna (2021)**
@@ -59,7 +59,7 @@ I want to connect all the data in different sheets so that if you create an entr
 
 #### Data Visualization
 
-- <a href="https://lookerstudio.google.com/reporting/5689376f-cf6d-4473-b8a8-15479eb61dac">Google Sheet Link</a>
+- <a href="https://lookerstudio.google.com/reporting/5689376f-cf6d-4473-b8a8-15479eb61dac">Looker Studio Link</a>
 
 ![](/Pictures/Project_3.1_GoogleLooker.png)
 
