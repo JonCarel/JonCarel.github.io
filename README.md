@@ -1,5 +1,5 @@
 # Industrial Engineer
- <a href="https://drive.google.com/file/d/11t1JHJ0kpvqF1nTdBlqlBiJFEHYE9yTK/view?usp=sharing">Link to my Full Resume.pdf</a>
+ <a href="https://drive.google.com/file/d/17HFqLY0iYzO9v-E5RbmdswpaHCaEWYER/view?usp=sharing">Link to my Full Resume.pdf</a>
 #### Technical Skills: Excel, Access, SQL, Power BI, Tableau, Python, Google Apps
 
 ## Education
